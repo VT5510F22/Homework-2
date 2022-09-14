@@ -1,4 +1,4 @@
-# ECE 5510 Homework 2 Part II Template (Fall 2022)
+# ECE/CS-5510 Homework 2 Part II Template (Fall 2022)
 
 ## Contact
 
